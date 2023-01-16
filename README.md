@@ -39,4 +39,4 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitishkumaram&" alt="nitishkumaram" /></p>
+![Nitish's github stats](https://github-readme-stats.vercel.app/api?username=nitishkumaram&theme=merko&layout=compact)
