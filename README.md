@@ -39,4 +39,4 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-![Nitish's github stats](https://github-readme-stats.vercel.app/api?username=nitishkumaram&theme=merko&layout=compact)
+![Nitish's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nitishkumaram&theme=merko&layout=compact)
