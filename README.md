@@ -40,3 +40,4 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 ![Nitish's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nitishkumaram&theme=merko&layout=compact)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitishkumaram&&theme=tokyonight" alt="nitishkumaram" /></p>
